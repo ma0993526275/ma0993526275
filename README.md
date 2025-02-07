@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# <span style="color:#4CAF50;">Welcome to My Tech World! 👨‍💻</span>  
+# <span style="color:#4CAF50;">Welcome to My Tech World! 👨‍💻</span> 
 
 ![Profile Views](https://shields.io/badge/Profile_Views-10k-blue)  
-![Full Stack Developer](https://shields.io/badge/-Full_Stack_Developer-success?style=flat&logo=codeigniter&logoColor=white)
+![Full Stack Developer](https://shields.io/badge/-Full_Stack_Developer-success?style=flat&logo=codeigniter&logoColor=white)  
+![Languages](https://shields.io/badge/Code-JavaScript%20%7C%20PHP%20%7C%20HTML%20%7C%20CSS-blue?style=flat&logo=code)  
 
 ---
 
@@ -55,22 +56,40 @@ I'm **Mohammed Ali**, a creative Full Stack Developer with expertise in building
 
 ## <span style="color:#FF69B4;">📊 Featured Projects:</span>  
 
-![Project Demo](https://via.placeholder.com/800x400.png?text=Project+1)  
-**Project: [E-Commerce Store](#)**  
-Description: Developed a fully functional e-commerce platform using Laravel and Vue.js, featuring product management and multiple payment gateways.
+### 🛒 **E-Commerce Store**  
+**Description:** A fully functional e-commerce store designed to provide an outstanding shopping experience. Built with **Laravel** and **Vue.js**, the platform includes:  
+- A dynamic product catalog with categories and filters.  
+- Secure payment gateways (PayPal, Stripe).  
+- A user-friendly cart and checkout process.  
+- Admin control to manage inventory and orders.  
 
-![Project Demo](https://via.placeholder.com/800x400.png?text=Project+2)  
-**Project: [Educational Platform](#)**  
-Description: Interactive platform for delivering lessons and tutorials with user management.
+🔗 **[View E-Commerce Store](https://ma0993526275.github.io/store_ui_0.0.2/pages/home.html)**  
+
+---
+
+### 📊 **Admin Dashboard**  
+**Description:** A powerful and intuitive admin dashboard designed for seamless management. Developed with **React.js** and **Node.js**, it offers:  
+- Real-time analytics and reporting.  
+- User management with role-based access control.  
+- Integration with APIs for data synchronization.  
+- Responsive design for desktop and mobile devices.  
+
+🔗 **[View Admin Dashboard](https://ma0993526275.github.io/Dashboard/index.html)**  
+
+---
+
+## <span style="color:#32CD32;">🖥️ Full Portfolio:</span>  
+Explore more about me and my work:  
+🔗 **[View My Portfolio](https://ma0993526275.github.io/Portoflio-v2/)**  
 
 ---
 
 ## <span style="color:#32CD32;">📬 Let’s Connect:</span>  
-- **LinkedIn:** [linkedin.com/in/username](#)  
-- **GitHub:** [github.com/username](#)  
-- **Instagram:** [instagram.com/username](#)  
-- **Email:** [your-email@example.com](#)
+- **LinkedIn:** [View My LinkedIn Profile](https://www.linkedin.com/in/mohammed-ail-81b647223?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- **Instagram:** [Follow Me on Instagram](https://www.instagram.com/ma0993526275?igsh=NThmMGVwbDU0YmZ1)  
+- **Email:** [ma0993526275@gmail.com](mailto:ma0993526275@gmail.com)  
+- **WhatsApp:** [Chat on WhatsApp](https://wa.me/249993526275)  
 
 ![Contact](https://shields.io/badge/Contact_Me-Click_Here-success?style=for-the-badge&logo=gmail&logoColor=white)  
 
-📌 **Let’s build something amazing together!**
+📌 **Let’s build something amazing together!** 
